@@ -5,3 +5,5 @@ email: antoine.vaucamps@gmail.com
 description: Antoine Vaucamps - AI, Machine Learning, Software Engineering
 url: "https://avaucamps.github.io"
 github_username: avaucamps
+plugins:
+  - jekyll-seo-tag
